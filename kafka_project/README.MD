@@ -60,7 +60,7 @@ The project code is divided into the following components:
 
 
 
-![Screen Shot 2021-09-02 at 12.55.49 AM](/Users/aarongonzalez/Desktop/kafka_project/Screen Shot 2021-09-02 at 12.55.49 AM.png)
+![fraud_transactions](https://github.com/Aaron-O-Gonzalez/springboard/blob/main/kafka_project/Screen%20Shot%202021-09-02%20at%2012.55.49%20AM.png)
 
 6. To ensure that the messages are properly sorted into legitimate topics:
 
