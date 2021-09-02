@@ -68,4 +68,4 @@ The project code is divided into the following components:
 
    
 
-![Screen Shot 2021-09-02 at 12.57.55 AM](/Users/aarongonzalez/Desktop/kafka_project/Screen Shot 2021-09-02 at 12.57.55 AM.png)
+![legit_transactions](https://github.com/Aaron-O-Gonzalez/springboard/blob/main/kafka_project/Screen%20Shot%202021-09-02%20at%2012.57.55%20AM.png)
