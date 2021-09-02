@@ -6,7 +6,7 @@ The purpose of this project is to design a basic streaming application for a sim
 
 
 
-![kafka_mini](/Users/aarongonzalez/Documents/kafka_mini.png)
+
 
 
 
@@ -58,7 +58,7 @@ The project code is divided into the following components:
 
    ```docker-compose -f docker-compose.kafka2.yml exec broker kafka-console-consumer --bootstrap-server localhost:9092 --topic streaming.transactions.fraud --from-beginning```
 
-![Screen Shot 2021-09-02 at 12.55.49 AM](/Users/aarongonzalez/Desktop/Screen Shot 2021-09-02 at 12.55.49 AM.png)
+
 
 
 
@@ -66,5 +66,5 @@ The project code is divided into the following components:
 
    ```docker-compose -f docker-compose.kafka2.yml exec broker kafka-console-consumer --bootstrap-server localhost:9092 --topic streaming.transactions.legit--from-beginning```
 
-   ![Screen Shot 2021-09-02 at 12.57.55 AM](/Users/aarongonzalez/Desktop/Screen Shot 2021-09-02 at 12.57.55 AM.png)
+  
 
