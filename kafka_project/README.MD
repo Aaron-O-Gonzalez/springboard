@@ -6,7 +6,7 @@ The purpose of this project is to design a basic streaming application for a sim
 
 
 
-![kafka_mini](/Users/aarongonzalez/Documents/kafka_mini.png)
+![kafka_mini](https://github.com/Aaron-O-Gonzalez/springboard/blob/main/kafka_project/kafka_mini.png)
 
 
 
