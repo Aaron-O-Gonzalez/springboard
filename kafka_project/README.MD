@@ -1,4 +1,4 @@
-# Transaction Streaming and Parsing with Apache Kafka
+# Transaction Streaming and Real-Time Analysis
 
 ## Overview
 
