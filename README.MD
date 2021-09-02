@@ -50,7 +50,7 @@ The project code is divided into the following components:
 
    The output should look similar in structure to the following image:
 
-![All_transactions](/Users/aarongonzalez/Desktop/All_transactions.png)
+
 
 
 
